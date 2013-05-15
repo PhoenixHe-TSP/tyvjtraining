@@ -11,3 +11,12 @@
 *.lai
 *.la
 *.a
+
+# Compiled java class
+*.java
+
+# Compressed data
+*.rar
+
+# and...Compiled main.cpp
+^main$
